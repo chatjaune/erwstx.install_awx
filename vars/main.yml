@@ -13,6 +13,8 @@ install_awx_supported_versions:
 - 9.1.1
 - 9.2.0
 - 9.3.0
+- 10.0.0
+- 11.0.0
 install_awx_rpm_packages:
 - git
 - gettext
